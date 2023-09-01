@@ -85,6 +85,9 @@
     padding: 1rem;
     border-radius: 1rem;
 }
+li.pokemon {
+    cursor: pointer;
+}
 
 .pokemon .number {
     color: #000;
@@ -144,6 +147,7 @@
     background-color: #6c79db;
     border: none;
     border-radius: 1rem;
+    cursor: pointer;
 }
 
 @media screen and (min-width: 380px) {
